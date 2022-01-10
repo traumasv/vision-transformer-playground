@@ -1,1 +1,1 @@
-# vision-transformer-playground
+# Vision Transformer
